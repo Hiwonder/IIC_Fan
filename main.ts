@@ -4,7 +4,7 @@
 //% weight=10 icon="\uf140" color=#2896ff
 namespace iicfan {
 
-    const I2C_ADDR = 0x77;
+    const I2C_ADDR = 0x39
 
     const SET_MODE = 0
 
